@@ -1,0 +1,15 @@
+{
+"jsonpaths" : 
+[
+
+"$['Symbol']",
+"$['Date']",
+"$['Open']",
+"$['High']",
+"$['Low']",
+"$['Close']",
+"$['AdjClose']",
+"$['Volume']"
+
+]
+}

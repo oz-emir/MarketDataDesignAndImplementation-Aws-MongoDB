@@ -22,7 +22,7 @@ Feel free to make assumptions and come up with recommendation on how and when da
 For a proof of concept implementation use free-tier resources on AWS as much as possible. You can go big on the diagram in #1 but stay as economic as possible on the implementation.
 Data Files
 
-[Apple](https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/AAPL.csv)
+[Apple](https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/AAPL.csv/)
 [Microsoft] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/MSFT.csv (Links to an external site.)
 [Cisco] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/CSCO.csv (Links to an external site.)
 [Amazon] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/AMZN.csv (Links to an external site.)

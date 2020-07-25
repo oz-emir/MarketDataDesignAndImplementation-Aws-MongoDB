@@ -22,16 +22,16 @@ Feel free to make assumptions and come up with recommendation on how and when da
 For a proof of concept implementation use free-tier resources on AWS as much as possible. You can go big on the diagram in #1 but stay as economic as possible on the implementation.
 Data Files
 
-[Apple](https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/AAPL.csv/)
-[Microsoft] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/MSFT.csv (Links to an external site.)
-[Cisco] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/CSCO.csv (Links to an external site.)
-[Amazon] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/AMZN.csv (Links to an external site.)
-[Verizon] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/VZ.csv (Links to an external site.)
-[Oracle] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/ORCL.csv (Links to an external site.)
-[Facebook] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/FB.csv (Links to an external site.)
-[Netflix] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/NFLX.csv (Links to an external site.)
-[Twitter] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/TWTR.csv (Links to an external site.)
-[Google]  - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/GOOG.csv (Links to an external site.)
+[Apple] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/AAPL.csv)
+[Microsoft] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/MSFT.csv)
+[Cisco] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/CSCO.csv)
+[Amazon] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/AMZN.csv)
+[Verizon] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/VZ.csv)
+[Oracle] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/ORCL.csv)
+[Facebook] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/FB.csv)
+[Netflix] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/NFLX.csv)
+[Twitter] - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/TWTR.csv)
+[Google]  - (https://dpapatho-msin618-bucket.s3.amazonaws.com/fintech/GOOG.csv)
  
 Implementation Steps
 
